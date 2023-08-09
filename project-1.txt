@@ -8,3 +8,4 @@ echo "<h1> Pizza is a pseudo $(hostname -f) in AZ $EC2_AVAIL_ZONE </h1>" > /var/
 
 #prints out "Pizza is a pseudo"#
 CIDR = "10.0.14.0/16"
+Private IP = "3.0.20.0"
